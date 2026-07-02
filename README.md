@@ -8,7 +8,7 @@ In this notebook, we aim to provide a walk-through, interactive resource to intr
 
 Clone the tutorial material
 ```bash
-git clone https://github.com/jihoonkim2100/tutorial.git
+git clone https://github.com/CNG-LAB/tutorial.git
 ```
 
 Run the command below
