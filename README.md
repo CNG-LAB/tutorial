@@ -1,6 +1,6 @@
 Author(s): @jihoonkim2100 kimj@cbs.mpg.de | Clara Weber webercl@cbs.mpg.de
 
-Last updated: 19-05-2026
+Last updated: 02-07-2026
 
 # Introduction to Neuroimaging coding
 
