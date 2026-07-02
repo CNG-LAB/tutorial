@@ -1,0 +1,23 @@
+[project]
+name = "tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "brainspace>=0.1.10",
+    "brainstat>=0.6.0",
+    "jupyterlab==4.0.13",
+    "matplotlib>=3.5.0",
+    "nibabel==4.0.0",
+    "nilearn>=0.10.4",
+    "numpy==1.23.5",
+    "pandas>=1.5.1",
+    "pyvirtualdisplay==3.0",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.13.1",
+    "seaborn>=0.13.2",
+    "session-info==1.0.1",
+    "setuptools>=82.0.1",
+    "vtk==9.2.6",
+]
